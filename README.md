@@ -4,9 +4,9 @@
 
 <ul>
   
-<li>I am 30 year old programmer from Moscow</li>
+- I am 30 year old programmer from Moscow
 
-<li>I learn Java at [job4j](https://job4j.ru/)</li>
+- I learn Java at [job4j](https://job4j.ru/) 
 
 </ul>
 
